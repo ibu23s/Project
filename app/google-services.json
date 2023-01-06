@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "680712018971",
+    "project_id": "lets-talk-a9239",
+    "storage_bucket": "lets-talk-a9239.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680712018971:android:9a5b7a52a235c7e452ecbe",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680712018971-vk6hsh2p053jnq7pmqngeb9j46f4lhd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQvMGs1l6Y986kKOOh5bzQ7qOvv8SHLuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680712018971-vk6hsh2p053jnq7pmqngeb9j46f4lhd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
